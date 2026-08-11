@@ -1,26 +1,29 @@
-# 👋 Victor Xavier
+# Victor Xavier
 
-**Analista de Dados em formação** | Transformando dados em insights estratégicos
+**Cientista de Dados em formação** | Modelagem preditiva · Machine Learning · Insights baseados em dados
 
 ---
 
 ## 🔍 Sobre mim
 
-Sou apaixonado por extrair significado de dados e transformar números em decisões. 
-Tenho experiência prática com ferramentas de análise, manipulação de dados e 
-visualização, sempre buscando entregar soluções claras e orientadas a negócios.
+Atuo na interseção entre estatística, programação e negócios. Meu foco é 
+construir soluções orientadas a dados que gerem valor real — desde a 
+exploração inicial até a implementação de modelos preditivos.
 
-Atualmente focado em:
-- Análise exploratória de dados (EDA)
-- Construção de dashboards interativos
-- Modelagem estatística e preditiva
-- Automação de processos com Python
+**Áreas de atuação:**
+- 🤖 Machine Learning (classificação, regressão, clustering)
+- 📊 Análise exploratória e inferência estatística
+- 🧹 Limpeza, transformação e engenharia de features
+- 📈 Visualização de dados e storytelling
+- 🗄️ Consultas SQL e manipulação de grandes bases
 
 ---
 
 ## 🛠️ Stack principal
 
 ```python
-linguagens = ["Python", "SQL"]
-bibliotecas = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"]
-ferramentas = ["Jupyter", "VS Code", "Git", "Power BI"]
+linguagens     = ["Python", "SQL", "R"]
+ml_frameworks  = ["Scikit-learn", "XGBoost", "TensorFlow"]
+data_tools     = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"]
+bancos         = ["PostgreSQL", "MySQL", "MongoDB"]
+infra          = ["Git", "Docker", "Jupyter", "VS Code"]
